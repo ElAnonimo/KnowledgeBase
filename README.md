@@ -6,7 +6,6 @@
 * CRUD
 * CSS
 * Bootstrap
-* MongoDB
 * Bower
 * Grunt
 
